@@ -9,7 +9,7 @@ package com.test.spr;
 //    대상 객체가 인터페이스를 구현하고 있어야 한다.
 public interface Calculator
 {
-	// 주 업무(core concern) 진행을 위한 메소즈 선언
+	// 주 업무(core concern) 진행을 위한 메소드 선언
 	//-- 덧셈, 뺄셈, 곱셈, 나눗셈
 	public int add(int x, int y);
 	public int sub(int x, int y);
