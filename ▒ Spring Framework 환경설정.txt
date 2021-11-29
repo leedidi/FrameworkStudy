@@ -154,6 +154,8 @@
                                            객체 생성 구문 및 DI 설정 구문 구성
 
 ※ 라이브러리 등록
+(//@: SpringPrj04 오른쪽 클릭 -> Properties 
+  ->Libraries 탭에서  Add External JARs... 눌러서 밑에 파일 추가)
    - 경로1 : C:\s-f-3.0.2-with-docs\dist
      ·파일1 : org.springframework.asm-3.0.2.RELEASE
      ·파일2 : org.springframework.beans-3.0.2.RELEASE
